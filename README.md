@@ -8,4 +8,4 @@ There's also an option for downloading the source code (a little useful for deve
 ## Credits
 - DefeatOf13 (Creator of the script)
 - A big THANK YOU to [LumaTeam](https://github.com/LumaTeam) (Luma3DS Developers)
-- A small thank you to [Peppe30_BRICK](https://github.com/Peppe30bric), this project was inspired by his ISFShax Install Script
+- A small thank you to [Peppe30_BRICK](https://github.com/Peppe30brick), this project was inspired by his ISFShax Install Script
