@@ -120,7 +120,7 @@ setlocal enabledelayedexpansion
         cls
         color 5
         echo Script made by DefeatOf13 :D
-        echo Check my website if you want: https://defitmods.netlify.app/
+        echo Check my website if you want: https://defitmods.xyz
         echo (CTRL + CLIC to open the link)
         echo.
         echo A big THANK YOU to LumaTeam for creating and updating Luma3DS CFW to this day
